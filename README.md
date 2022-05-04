@@ -45,10 +45,10 @@
 ### You can view the notebook in dynamic form by clicking the following image:
 - post-correspondence
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/FionnBrowne/Emerging-Technologies/blob/main/scikit-learn.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/FionnBrowne/THEORY-OF-ALGORITHMS/blob/main/countdown.ipynb)
 - countdown
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/FionnBrowne/Emerging-Technologies/blob/main/quantum-deutsch.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/FionnBrowne/THEORY-OF-ALGORITHMS/blob/main/post-correspondence.ipynb)
 
 # Requirements
 ***
