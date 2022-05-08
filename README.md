@@ -17,7 +17,6 @@
     - [Possible fixes for issues ???](##possible-fixes-for-issues-???)
 7. [Exploring](#exploring)
 8. [Itertools](#itertools)
-9. [Conclusion](#conclusion)
 
 
 # Purpose of repository
@@ -110,10 +109,4 @@ L2 = ((b, b, b),(b, b),(b, b))
 bpcp_solver(L1, L2, 5) 
 ```
 # Itertools
-### `itertools`  [Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html#module-itertools). 
-
-# Conclusion
-***
-
-
-
+### `itertools` is a module that [incorporates functions, utilising computational resources efficiently](https://docs.python.org/3/library/itertools.html#module-itertools). It is used to iterate over data structures that can be stepped over using a for-loop.
