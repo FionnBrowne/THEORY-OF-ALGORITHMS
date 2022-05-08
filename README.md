@@ -5,9 +5,11 @@
 # List of contents
 ***
 
-# What is this repository
+# What is this repository for?
 ***
-## This repository contains lab work from my course Theory of Algorithms & my project on the Post Correspondence Problem and the Countdown Numbers Game. These notebooks demonstrate my work on the on explaning the contents and examples of their topics.
+## This repository contains lab work from my course [`Theory of Algorithms`](https://learnonline.gmit.ie/course/view.php?id=5197) & my project work on the [`Post Correspondence Problem`](https://github.com/FionnBrowne/THEORY-OF-ALGORITHMS/blob/main/post-correspondence.ipynb)(PCP) and the [`Countdown Numbers Game`](https://github.com/FionnBrowne/THEORY-OF-ALGORITHMS/blob/main/countdown.ipynb) using Python libraries. These [`Jupyter notebooks`](https://jupyter.org/) demonstrate my work on explaining the contents and examples of their topics.
+- Some of the tools used in the PCP notebook were [`Sets`](https://docs.python.org/3/tutorial/datastructures.html#sets), [`Tuples`](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences) and [`Itertools`](https://realpython.com/python-itertools/). These Libraries are provided by Python, which was used to show an example of what the PCP is and to form a Bounded version.
+- The [`Countdown`](https://github.com/FionnBrowne/THEORY-OF-ALGORITHMS/blob/main/countdown.ipynb) notebook is an overview of the British tv game show, how complex the numbers section of the show is and a Python function to solve it.
 
 ![Jupyter notebooks](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png)
 
@@ -17,11 +19,15 @@
 
 ### `post-correspondence` explains what the Post Correspondence Problem (PCP) is with examples [PCP](https://en.wikipedia.org/wiki/Post_correspondence_problem#:~:text=One%20of%20the%20most%20important,the%20problem%20is%20NP%2Dcomplete.). In this notebook there is also a Bounded PCP which takes in two lists of strings and checks if they correspond [Bounded PCP](https://cs.stackexchange.com/questions/2783/a-polynomial-reduction-from-any-np-complete-problem-to-bounded-pcp).
 
-### `countdown` covers a [](), []().
+### `countdown` covers a British [`game show`](https://en.wikipedia.org/wiki/Countdown_(game_show)), where the game rules are explained, and then the complexity of the numbers section is considered. Then there is a function to solve the countdown game, which takes in a list of six numbers and a target number and then returns a method to calculate the target from the numbers if it exists.
 
-# Purpose of this repo:
+# Expected Learning outcomes:
 ***
-### To demonstrate a deeper understanding of machine learning 
+### To demonstrate a deeper understanding of Computational complexity.
+- Compare different models of computation.
+- Write computer programs using a selection of programming paradigms.
+- Analyse the complexity of an algorithm.
+- Identify difficult computational problems in everyday programming.
 
 # Files:
 ***
